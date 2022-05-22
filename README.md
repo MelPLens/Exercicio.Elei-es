@@ -19,4 +19,5 @@ contagem do total de votos para cada partido
 contagem de votos nulo
 contagem de votos em branco
 Fim por Fim
-![fluxograma eleicoes](https://user-images.githubusercontent.com/99374140/169672964-0622f4a9-1054-4c21-a078-ddbca03ba42d.png)
+**************************************************
+![fluxograma eleicoes](https://user-images.githubusercontent.com/99374140/169672979-620363fd-ae1a-49a4-9d5b-63e45c0a972b.png)
